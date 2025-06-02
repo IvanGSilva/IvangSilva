@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## Ivan Silva
-<br>
 I am a brazilian full stack web developer with a strong focus on building web systems and user interfaces. My primary experience is with **PHP**, using frameworks such as **Laravel** and **Yii** to develop scalable, maintainable back-end architectures.
 
 On the front-end, I have solid knowledge of **JavaScript**, working with **React** to create dynamic and responsive UIs. I also have experience with **Node.js** for server-side development and **Python**, using **Flask** and **Django** for smaller projects and automation tasks.
